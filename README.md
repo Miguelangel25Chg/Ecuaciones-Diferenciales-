@@ -9,17 +9,17 @@
 El repositorio está organizado en varios documentos en formato PDF que abarcan desde conceptos fundamentales hasta aplicaciones en ecosistemas y sistemas complejos:
 
 ### 📌 Infografías Educativas
-* 📄 **`Infografía_EDO_u1y2.pdf`**: Conceptos clave y fundamentos de las Unidades 1 y 2 sobre Ecuaciones Diferenciales.
-* 📄 **`Infografía_clasificación_punto_critico_SD1.pdf`**: Clasificación y análisis de estabilidad de puntos críticos en Sistemas Dinámicos.
-* 📄 **`Infografía_dinamicos_complejos.pdf`**: Introducción a comportamientos y dinámicas complejas.
+* 📄 [Infografía_EDO_u1y2.pdf](Infografía_EDO_u1y2.pdf): Conceptos clave y fundamentos de las Unidades 1 y 2 sobre Ecuaciones Diferenciales.
+* 📄 [Infografía_clasificación_punto_critico_SD1.pdf](Infografía_clasificación_punto_critico_SD1.pdf): Clasificación y análisis de estabilidad de puntos críticos en Sistemas Dinámicos.
+* 📄 [Infografía_dinamicos_complejos.pdf](Infografía_dinamicos_complejos.pdf): Introducción a comportamientos y dinámicas complejas.
 
 ### 🧪 Modelos y Aplicaciones Prácticas
-* 📄 **`Modelos_deterministicos_poblacion_2025.pdf`**: Análisis de modelos deterministas aplicados al crecimiento y dinámica poblacional.
-* 📄 **`presa_depredador.pdf`**: Estudio del modelo clásico Presa-Depredador (Lotka-Volterra) y sus interacciones.
-* 📄 **`sistemas_biologicos_EDO_probabilidad.pdf`**: Aplicación de EDOs y probabilidad en la modelación de sistemas biológicos.
+* 📄 [Modelos_deterministicos_poblacion_2025.pdf](Modelos_deterministicos_poblacion_2025.pdf): Análisis de modelos deterministas aplicados al crecimiento y dinámica poblacional.
+* 📄 [presa_depredador.pdf](presa_depredador.pdf): Estudio del modelo clásico Presa-Depredador (Lotka-Volterra) y sus interacciones.
+* 📄 [sistemas_biologicos_EDO_probabilidad.pdf](sistemas_biologicos_EDO_probabilidad.pdf): Aplicación de EDOs y probabilidad en la modelación de sistemas biológicos.
 
 ### 📙Material bibliográfíco
-* 📄 **`unidad_1_EDO_2027.pdf`**: Material conceptual y práctico enfocado en la primera unidad de Ecuaciones Diferenciales.
+* 📄 [unidad_1_EDO_2027.pdf](unidad_1_EDO_2027.pdf): Material conceptual y práctico enfocado en la primera unidad de Ecuaciones Diferenciales.
 
 ---
 
